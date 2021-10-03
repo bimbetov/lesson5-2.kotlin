@@ -1,0 +1,4 @@
+Lesson 5-2.
+1) <T>
+2) A generic constraint
+3) The generic type parameter has been made into a real type.
